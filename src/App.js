@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This should get picked up by composed.
         </a>
       </header>
     </div>
